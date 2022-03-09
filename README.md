@@ -1,10 +1,10 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
-<h3 align="center">A Passionate Self Taught Artificial Intelligence Engineer and Student</h3>
+<h3 align="center">Talented Blockcahin Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemraj183&label=Profile%20views&color=0e75b6&style=flat" alt="Hemraj183" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemraj183&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hemraj183" alt="Hemraj183" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hemraj183" alt="" /></a> </p>
 
 <img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
 
