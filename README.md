@@ -19,12 +19,7 @@
 
 - 💬 Ask me about **Solidity, React, Web3, Node js**
 
-- 📫 How to reach me **Telegram:https://t.me/HcryptoHc Skype: live:.cid.5479aa40c786fde3**
-
-<h3 align="left">Languages and Tools:</h3>
-<h1 align="center">Hi 👋, I'm Crypto</h1>
-<h3 align="center">Talented Blockchain Developer</h3>
-
+- 📫 How to reach me **Telegram:https://t.me/HcryptoHc 
 
 
 <h3 align="left">Connect with me:</h3>
