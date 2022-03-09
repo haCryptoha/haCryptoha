@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on AI projects and AI research.
 - 🤔 I’m looking for help with my Deep Learning research.
 - 💬 Ask me about machine learning, OpenCV or deep learning.
-- 📫 How to reach me: hemrajdhakal.ml@gmail.com
 - ⚡ Fun fact: You may get AI girlfriend by the 2030😀😅
 <h3 align="left">Connect with me:</h3>
 <p align="left">
