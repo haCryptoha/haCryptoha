@@ -8,7 +8,7 @@
 - 👯 I’m looking for NFT projects.
 - 🤔 I’m looking for Dex projects.
 - 💬 Ask me about Defi.
-
+<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
