@@ -2,13 +2,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
 <h3 align="center">Talented Blockcahin Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemraj183&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=Hemraj183" alt="" /></a> </p>
-
-<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
-
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="Hemraj183" /></a> <a href="" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Hemraj183" /></a> </p>
 
 - 🔭 I’m currently working  as freelancer
 - 🌱 I have rich experience in building Defi platforms
