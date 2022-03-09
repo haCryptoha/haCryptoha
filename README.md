@@ -1,14 +1,27 @@
-
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
+
+
 <h3 align="center">Talented Blockcahin Developer</h3>
 
-<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
-- 🔭 I’m currently working  as freelancer
-- 🌱 I have rich experience in building Defi platforms
-- 👯 I’m looking for NFT projects.
-- 🤔 I’m looking for Dex projects.
-- 💬 Ask me about Defi.
 
+
+<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
+
+
+
+- 🔭 I’m currently working on machine learning, computer vision and deep learning projects.
+- 🌱 I’m currently learning deep learning and Natural Language Processing.
+- 👯 I’m looking to collaborate on AI projects and AI research.
+- 🤔 I’m looking for help with my Deep Learning research.
+- 💬 Ask me about machine learning, OpenCV or deep learning.
+- 📫 How to reach me: hemrajdhakal.ml@gmail.com
+- ⚡ Fun fact: You may get AI girlfriend by the 2030😀😅
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hemaraj-dhakal-155b1b1a7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
+<a href="https://www.instagram.com/hemraj1267" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="Hemraj183" /></a>
+<a href="https://www.hackerrank.com/hemrajdhakal_ml" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hemraj183" /></a>
+<a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hemraj183" /></a></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -29,7 +42,8 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/> </p>
  
 <p align="center">	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hemraj183&show_icons=true&theme=tokyonight" />
+  <img 
+       ="48%" src="https://github-readme-stats.vercel.app/api?username=Hemraj183&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemraj183&theme=tokyonight" />
 </p>
  <p align="center">	
@@ -39,5 +53,3 @@
   
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
