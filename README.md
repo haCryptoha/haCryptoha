@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Solidity, Rust, React js, Next js Web3, Node js**
 
-- 📫 How to reach me **Telegram:https://t.me/HcryptoHc 
+- 📫 How to reach me ** Skype: live:.cid.5479aa40c786fde3
 
 
 
