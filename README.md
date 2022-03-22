@@ -10,13 +10,7 @@
 
 
 
-<!-- Footer -->
 
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/mothblue1111/mothblue1111/master/images/marquee.svg" />
-<br />
-</div>
 
 
 
@@ -81,3 +75,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/mothblue1111/mothblue1111/master/images/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mothblue1111/mothblue1111/master/images/atom.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mothblue1111/mothblue1111/master/images/vim.png"></code>
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/mothblue1111/mothblue1111/master/images/marquee.svg" />
+<br />
+</div>
