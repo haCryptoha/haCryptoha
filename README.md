@@ -14,7 +14,7 @@
 
 
 
-<h3 align="center">Talented Blockcahin Developer</h3>
+<h3 align="center">Fullstack & Blockcahin Developer</h3>
 
 
 
