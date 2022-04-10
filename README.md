@@ -22,9 +22,9 @@
 
 
 
-- 🔭 I’m currently working as **freelacner**
+- 🔭 I’m currently working as **Fullstack & Blockchain Developer**
 
-- 🌱 I’m currently learning **AI, Deep learning for Defi**
+- 🌱 I’m currently learning **AI, Polkadot**
 
 - 👯 I’m looking for clients [with Defi jobs](for long term)
 
@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **Solidity, Rust, React js, Next js Web3, Node js, Laravel**
 
-- 📫 How to reach me ** Skype: live:.cid.5479aa40c786fde3
+- 📫 How to reach me ** Skype: live:.cid.5479aa40c786fde3, Telegram: @hacryptoha**
 
 
 
