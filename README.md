@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working as **Fullstack & Blockchain Developer**
 
-- 🌱 I’m currently learning **AI, Polkadot**
+- 🌱 I’m currently learning **AI,Polkadot**
 
 - 👯 I’m looking for clients [with Defi jobs](for long term)
 
