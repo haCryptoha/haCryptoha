@@ -30,7 +30,7 @@
 
 - 🤝 I have rich experiences in building [Defi platforms such as](Marketpalce, trading, game and so on)
 
-- 💬 Ask me about **Solidity, Rust, React js, Next js Web3, Node js, Laravel**
+- 💬 Ask me about **Solidity, Rust, React js, Next js Web3, Node js, Laravel, Python**
 
 - 📫 How to reach me ** Skype: live:.cid.5479aa40c786fde3, Telegram: @hacryptoha**
 
