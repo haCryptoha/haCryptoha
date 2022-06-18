@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I’m currently working as **Fullstack & Blockchain Developer**
+- 🔭 I’m currently working as **Fullstack WEB 2&3 Developer**
 
 - 🌱 I’m currently learning **AI,Polkadot**
 
